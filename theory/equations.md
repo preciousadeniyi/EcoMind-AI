@@ -26,4 +26,4 @@ $\mathbf{n}^a(t+1) = \text{normalize}\left(\mathbf{n}^a(t) + \eta \left[\sum_{b 
 ### 25. Power Equity Index
 $\PEI(t) = (1 - \text{Gini}(\{\sum_b w_{ab}\})) \times (1 - \text{Centralization}(t)) \times \text{MarginProtection}(t)$
 
-*Full equations available in the paper: [link to your Google Drive]*
+https://drive.google.com/file/d/1ia9hl5qLTsp91AMpwYwIDF1K4KFCtTJp/view?usp=drivesdk
