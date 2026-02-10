@@ -74,7 +74,7 @@ This project is part of an **Awesome Foundation grant application** to fund impl
 
 ## Paper
 
-Full theoretical paper (70 pages): [Google Drive Link - Add Your Link Here]
+Full theoretical paper : https://drive.google.com/file/d/1ia9hl5qLTsp91AMpwYwIDF1K4KFCtTJp/view?usp=drivesdk
 
 ## License
 
