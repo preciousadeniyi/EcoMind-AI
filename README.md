@@ -44,3 +44,40 @@ PVF-AB is designed to achieve:
 4. **Creative Tension** ($\text{CT} > 0.30$): Productive disagreement maintenance
 
 ## Repository Structure
+
+
+EcoMind-AI/
+├── theory/ # Mathematical foundations (25 equations, 4 theorems)
+├── src/ # Implementation source code
+│ ├── pvf/ # Primitive Valence Foundation (baseline)
+│ └── pvf_ab/ # PVF-AB (ecosystemic architecture)
+├── experiments/ # Demos and simulations
+│ └── shape_game/ # Shape Game: collaborative Tangram arrangement
+├── docs/ # Documentation and implementation plan
+└── ROADMAP.md # 8-week implementation timeline
+
+
+
+## Getting Started
+
+*Implementation begins upon grant funding. See [ROADMAP.md](ROADMAP.md) for detailed timeline.*
+
+## Grant Application
+
+This project is part of an **Awesome Foundation grant application** to fund implementation hardware (laptop for development). The theory is complete—now we need to convert 25 equations into working code.
+
+**Budget:** $1,000 for refurbished laptop + interface prototyping phone
+
+**Timeline:** 8 weeks to working prototype
+
+**Commitment:** All code MIT-licensed, open-source from day one
+
+## Paper
+
+Full theoretical paper (70 pages): [Google Drive Link - Add Your Link Here]
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+
